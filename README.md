@@ -1,4 +1,4 @@
-# docker-mysql
+# Docker MySQL
 
 A docker container image for SonarQube
 
