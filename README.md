@@ -1,6 +1,6 @@
 # Docker MySQL
 
-A docker container image for SonarQube
+A docker container image for MySQL
 
 To use, just build the docker image
 
